@@ -1,0 +1,6 @@
+# Ignore output files
+*.pdf
+*.docx
+
+# Ignore Emacs backups
+*~
