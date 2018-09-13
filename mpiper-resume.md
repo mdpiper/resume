@@ -1,3 +1,7 @@
+<!-- A one-page resume -->
+
+\pagenumbering{gobble}
+
 # Mark Piper
 
 mdpiper@gmail.com &bull;
