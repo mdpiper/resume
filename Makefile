@@ -10,7 +10,7 @@ DOCS= \
 	pandoc --to=docx $< -o $@
 
 .md.pdf:
-	pandoc --to=latex $< -o $@
+	pandoc -V geometry:margin=1in --to=latex $< -o $@
 
 all: ${DOCS}
 
