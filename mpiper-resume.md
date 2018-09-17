@@ -22,7 +22,7 @@ scientific programming, data analysis, and data visualization problems.
 ## Work Experience
 
 *Research Software Engineer*  
-CSDMS, University of Colorado, Boulder, Colorado (2013-present)
+CSDMS, University of Colorado, Boulder, CO (2013-present)
 
 >
 Develop open-source model coupling cyberinfrastructure
@@ -33,7 +33,7 @@ Co-investigator on proposals funded by NSF and NASA.
 
 *Product Manager*  
 Harris Geospatial Solutions (formerly Research Systems, Inc.),
-Boulder, Colorado (2012-2013)
+Boulder, CO (2012-2013)
 
 >
 Guided the overall direction of the 
@@ -45,7 +45,7 @@ developed requirements,
 and communicated this information to the Engineering team.
 
 *Solutions Engineer*  
-Harris Geospatial Solutions, Boulder, Colorado (2010-2012)
+Harris Geospatial Solutions, Boulder, CO (2010-2012)
 
 >
 Acted as technology evangelist for IDL.
@@ -57,7 +57,7 @@ Provided internal technical product assistance
 for Sales, Marketing, Tech Support, Services, and Product Management.
 
 *Professional Services Engineer*  
-Harris Geospatial Solutions, Boulder, Colorado (1999-2010)
+Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 >
 Designed, developed and taught
@@ -70,11 +70,7 @@ IDL, ENVI, C, Java, and Fortran.
 
 ## Education
 
-University of Colorado, Boulder, Colorado  
-Ph.D., Astrophysical, Planetary, and Atmospheric Sciences, 2001
-
-Penn State, University Park, PA  
-M.S., Meteorology, 1994
-
-University of Wisconsin, Madison, WI  
-B.S., Mathematics, 1992
+* Ph.D., Astrophysical, Planetary, and Atmospheric Sciences,
+  University of Colorado, Boulder, CO, 2001
+* M.S., Meteorology, Penn State, University Park, PA, 1994
+* B.S., Mathematics, University of Wisconsin, Madison, WI, 1992
