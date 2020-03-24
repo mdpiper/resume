@@ -10,9 +10,12 @@ DOCS= \
 	pandoc --to=docx $< -o $@
 
 .md.pdf:
-	pandoc -V geometry:margin=1in --to=latex $< -o $@
+	pandoc -V geometry:margin=0.8in --to=latex $< -o $@
 
 all: ${DOCS}
+
+show:
+	open ${MD_SOURCES:.md=.pdf} -a Negative
 
 clean:
 	rm -f ${DOCS}
