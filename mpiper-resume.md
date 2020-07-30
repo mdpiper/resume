@@ -18,6 +18,10 @@ with over 20 years of experience
 helping people solve
 scientific programming, data analysis, and data visualization problems.
 
+I am visually impaired, with approximately 70 percent vision loss.
+However, with slight accomodations (e.g., reversing screen colors),
+my work is unimpeded.
+
 
 ## Skills
 
