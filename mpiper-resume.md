@@ -4,9 +4,9 @@
 
 # Mark Piper
 
-mdpiper@gmail.com &bull;
 @mdpiper &bull;
 https://mdpiper.github.io &bull;
+mdpiper@gmail.com &bull;
 303-725-1306  
 3507 Smuggler Way Boulder, CO 80305
 
@@ -14,7 +14,8 @@ https://mdpiper.github.io &bull;
 ## Summary
 
 Research software engineer
-with over 20 years of geoscientific software development experience.
+with over 20 years of geoscientific software development experience
+in multiple languages on desktop and HPC systems.
 I help people solve
 scientific programming, data analysis, and data visualization problems.
 
