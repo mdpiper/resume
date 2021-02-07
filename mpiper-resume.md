@@ -20,7 +20,7 @@ I help people solve
 scientific programming, data analysis, and data visualization problems.
 
 I am visually impaired;
-however, with only minor accomodations (e.g., reversing screen colors),
+however, with minor accommodations (e.g., reversing screen colors),
 my work is unimpeded.
 <!-- I'm a master of keybindings. -->
 
