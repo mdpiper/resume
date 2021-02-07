@@ -8,29 +8,30 @@ mdpiper@gmail.com &bull;
 @mdpiper &bull;
 https://mdpiper.github.io &bull;
 303-725-1306  
-3507 Smuggler Way Boulder CO 80305
+3507 Smuggler Way Boulder, CO 80305
 
 
 ## Summary
 
 Research software engineer
-with over 20 years of experience
-helping people solve
+with over 20 years of geoscientific software development experience.
+I help people solve
 scientific programming, data analysis, and data visualization problems.
 
-I am visually impaired, with approximately 70 percent vision loss.
-However, with slight accomodations (e.g., reversing screen colors),
+I am visually impaired;
+however, with only minor accomodations (e.g., reversing screen colors),
 my work is unimpeded.
+<!-- I'm a master of keybindings. -->
 
 
 ## Skills
 
-Software development, training, consulting, technical marketing,
-technical writing, product management
+Software development, training, consulting, technical writing,
+product management, technical marketing
 
 >
-_Programming languages:_ Python, Fortran, Java, IDL, C++, C, MATLAB  
-_Development tools:_ GNU compilers and toolchain, bash, git, cmake, conda
+_Programming languages:_ Python, Fortran (object-oriented), Java, IDL, C++, C, MATLAB  
+_Primary development tools:_ GNU compilers and toolchain, CMake, git, bash, conda
 
 
 ## Work Experience
@@ -39,32 +40,32 @@ _Development tools:_ GNU compilers and toolchain, bash, git, cmake, conda
 INSTAAR, University of Colorado, Boulder, CO (2013-present)
 
 >
-Develop open-source model coupling cyberinfrastructure
-for the NSF-funded Community Surface Dynamics Modeling System (CSDMS).
-Present work of team through conferences, journal articless,
-webinars, and workshops.
+Developer of open-source model coupling cyberinfrastructure
+for the Community Surface Dynamics Modeling System (CSDMS).
+Work presented through conferences, journal articles, webinars, and workshops.
 Research interests include model benchmarking
-and uncertainty quantification in Earth surface process models.
-Co-investigator on grants funded by NSF and NASA.
+and uncertainty quantification.
+Co-PI on grants funded by NSF, NASA, and USGS.
+Lead instructor of the Earth Surface Processes Institute (ESPIn) summer school.
+Co-author of 10 journal articles and 18 software products.
 
 *Product Manager*  
 L3Harris Geospatial (formerly Research Systems, Inc.),
 Boulder, CO (2012-2013)
 
 >
-Guided the overall direction of the 
+Guided the development of the 
 scientific data analysis and visualization language IDL.
 Performed market research and competitive analyses,
-gathered customer feedback,
+gathered customer feedback through Sales and Tech Support,
 wrote user stories,
-developed requirements,
-and communicated this information to the Engineering team.
+then distilled and communicated information through requirements to Engineering.
 
 *Solutions Engineer*  
 L3Harris Geospatial, Boulder, CO (2010-2012)
 
 >
-Acted as technology evangelist for IDL.
+Acted as technology evangelist.
 Provided external support to users through
 live seminars and webinars,
 presentations at scientific conferences,
@@ -76,12 +77,12 @@ for Sales, Marketing, Tech Support, Services, and Product Management.
 L3Harris Geospatial, Boulder, CO (1999-2010)
 
 >
-Designed, developed and taught
+Designed, developed and taught over 180
 introductory through advanced-level programming courses in IDL and ENVI.
 Created domain-specific courses on signal processing,
 medical image processing, and scientific programming with IDL.
 Developed customer solutions using
-IDL, ENVI, C, Java, and Fortran.
+IDL, ENVI, Fortran, C, and Java.
 
 
 ## Education
