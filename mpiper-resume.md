@@ -19,10 +19,9 @@ in multiple languages on desktop and HPC systems.
 I help people solve
 scientific programming, data analysis, and data visualization problems.
 
-I am visually impaired;
+<!-- I am visually impaired;
 however, with minor accommodations (e.g., reversing screen colors),
-my work is unimpeded.
-<!-- I'm a master of keybindings. -->
+my work is unimpeded. -->
 
 
 ## Skills
@@ -41,9 +40,10 @@ _Primary development tools:_ GNU compilers and toolchain, CMake, git, bash, cond
 INSTAAR, University of Colorado, Boulder, CO (2013-present)
 
 >
-Developer of open-source model coupling cyberinfrastructure
-for the Community Surface Dynamics Modeling System (CSDMS).
-Work presented through conferences, journal articles, webinars, and workshops.
+Developed open-source model coupling cyberinfrastructure
+for the Community Surface Dynamics Modeling System (CSDMS),
+wrapping models written in Fortran, C, and C++ in Python.
+Presented work through conferences, journal articles, webinars, and workshops.
 Research interests include model benchmarking
 and uncertainty quantification.
 Co-PI on grants funded by NSF, NASA, and USGS.
