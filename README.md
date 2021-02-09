@@ -17,4 +17,5 @@ Clean:
 
     make clean
 
-There's also a LaTeX version (not currently used) in a subdirectory.
+Note that there are different versions (one page, multipage, LaTeX) of the resume
+in separate branches in this repository.
