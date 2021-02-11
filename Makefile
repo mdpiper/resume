@@ -1,5 +1,6 @@
 MD_SOURCES= \
-  mpiper-resume.md
+  mpiper-resume.md \
+  mpiper-dei-statement.md
 DOCS= \
   ${MD_SOURCES:.md=.docx} \
   ${MD_SOURCES:.md=.pdf}
@@ -14,8 +15,8 @@ DOCS= \
 
 all: ${DOCS}
 
-show:
-	open ${MD_SOURCES:.md=.pdf} -a Negative
+show: ${MD_SOURCES:.md=.pdf}
+	open $^ -a Negative
 
 clean:
 	rm -f ${DOCS}
