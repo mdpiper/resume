@@ -4,7 +4,7 @@
 
 # Mark Piper
 
-@mdpiper &bull;
+@[mdpiper](https://github.com/mdpiper) &bull;
 https://mdpiper.github.io &bull;
 mdpiper@gmail.com &bull;
 303-725-1306  
@@ -19,6 +19,7 @@ in multiple languages on desktop and HPC systems.
 
 Expertise in Python.
 Advanced skills in modern, modular, object-oriented Fortran.
+Open source software advocate.
 Breadth of experience across all aspects of the software development lifecycle:
 requirements analysis, estimation, design, development, build system, test system,
 documentation, training, user support, and evaluation.
@@ -31,12 +32,14 @@ and attention to detail.
 Full cycle software development, training, consulting, technical writing,
 product management, technical marketing
 
-* _Programming languages:_ Python, Fortran (object-oriented), bash, Java, IDL,
+* _Programming languages:_ Python, Fortran (modern), bash, Java, IDL,
   C++, C, MATLAB, NCL
-* _Development tools:_ GNU compilers, git, bash, conda
-* _Build tools/systems:_ CMake (C, C++, and Fortran, for Linux, macOS, and
-  Windows) and CTest; Python packaging with pip and conda, including several
-  recipes on conda-forge; GNU toolchain (mostly make, some configure)
+* _Development tools:_ GNU compilers (`gcc` and `gfortran`), `git`, shell tools
+  (e.g., `find`, `grep`, `sed`), `conda`, Docker, Slurm, TORQUE, Portable Batch
+  System, pytest, Sphinx, Jupyter Notebook
+* _Build tools/systems:_ CMake and CTest (for C, C++, and Fortran projects, on
+  Linux, macOS, and Windows), Python packaging with `pip` and `conda` (including
+  recipes on conda-forge), GNU toolchain (mostly `make`, some `configure`)
 
 
 ## Work Experience
@@ -45,11 +48,11 @@ INSTAAR, University of Colorado, Boulder, CO
 *Research Associate* (2013-present)
 
 >
-Core developer of open-source model coupling cyberinfrastructure
-for the Community Surface Dynamics Modeling System (CSDMS),
-transforming models written in Fortran, C, and C++
-into plug-and-play components in Python
-through a jinja-templated, Cython-based workflow.
+Research software engineer in the NSF-funded
+[Community Surface Dynamics Modeling System](https://csdms.colorado.edu) (CSDMS).
+Core developer of CSDMS' open-source model coupling cyberinfrastructure that
+transforms models written in Fortran, C, and C++ into plug-and-play Python
+components through a standards-based, jinja-templated, Cython workflow.
 
 >
 Core developer of the Basic Model Interface (BMI) standard.
@@ -76,19 +79,33 @@ L3Harris Geospatial (formerly Research Systems, Inc.), Boulder, CO
 *Product Manager* (2012-2013)
 
 >
-Guided the development of the 
-scientific data analysis and visualization language IDL.
-Performed market research and competitive analyses,
-gathered customer feedback through Sales and Tech Support,
-wrote user stories,
-then distilled and communicated information through requirements to Engineering.
+Technical product manager, product owner, and technology evangelist
+for the scientific data analysis and visualization language IDL.
+In concert with the lead developer,
+tasked with guiding the direction of the language,
+including prioritizing enahancements and maintenance.
+
+>
+Performed market research and competitive analyses
+(primarily versus Python and MATLAB);
+gathered user feedback though onsite customer visits
+(particularly at NASA, NOAA, and U.S. National Labs)
+and attendance at scientific conferences;
+participated in the design of the IDL and ENVI
+(geospatial image analysis application) APIs;
+wrote user stories, developed requirements, managed the product backlog.
 
 *Solutions Engineer* (2010-2012)
 
 >
-Acted as technology evangelist.
+Product owner and technology evangelist for IDL.
+Worked with the IDL product manager and lead developer
+to prioritize development for future releases.
+Engaged in user outreach by developing and presenting
+quarterly live seminars and webinars
+on topics ranging from numerical analysis techniques
+to file formats to visualization.
 Provided external support to users through
-live seminars and webinars,
 presentations at scientific conferences,
 blogging, and custom programming solutions.
 Provided internal technical product assistance
@@ -98,11 +115,16 @@ for Sales, Marketing, Tech Support, Services, and Product Management.
 
 >
 Designed, developed and taught over 180
-introductory through advanced-level programming courses in IDL and ENVI.
+introductory through advanced-level programming courses in IDL and ENVI
+to over 1500 students, with excellent reviews.
+Primary customers included NASA, NOAA, Los Alamos National Lab,
+Lawrence Livermore National Lab, Sandia National Lab, JPL, Raytheon, and USGS.
 Created domain-specific courses on signal processing,
 medical image processing, and scientific programming with IDL.
 Developed customer solutions using
 IDL, ENVI, Fortran, C, and Java.
+Responsible for project estimation, design, development, testing,
+and documentation.
 
 
 ## Education
