@@ -18,5 +18,11 @@ all: ${DOCS}
 show: ${MD_SOURCES:.md=.pdf}
 	open $^ -a Negative
 
+show-resume: mpiper-resume.pdf
+	open $^ -a Negative
+
+show-dei-statement: mpiper-dei-statement.pdf
+	open $^ -a Negative
+
 clean:
 	rm -f ${DOCS}
