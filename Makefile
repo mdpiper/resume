@@ -1,7 +1,8 @@
-MD_SOURCES= \
-  mpiper-resume.md \
-  mpiper-cover-letter.md \
-  mpiper-dei-statement.md
+resume=mpiper-resume.md
+cover_letter=mpiper-cover-letter.md
+dei_statement=mpiper-dei-statement.md
+
+MD_SOURCES=${resume} ${cover_letter} ${dei_statement}
 DOCS= \
   ${MD_SOURCES:.md=.docx} \
   ${MD_SOURCES:.md=.pdf}
@@ -16,26 +17,25 @@ DOCS= \
 
 all: decrypt ${DOCS}
 
-decrypt: mpiper-cover-letter.md.gpg
-ifeq ("$(wildcard mpiper-cover-letter.md)","")
-	gpg --decrypt $^ > mpiper-cover-letter.md
+decrypt: ${cover_letter}.gpg
+ifeq ("$(wildcard ${cover_letter})","")
+	gpg --decrypt $< > ${cover_letter}
 endif
 
-encrypt: mpiper-cover-letter.md
-	gpg --encrypt mpiper-cover-letter.md
-	rm $^
+encrypt: ${cover_letter}
+	gpg --encrypt $< && rm $^
 
 show: ${MD_SOURCES:.md=.pdf}
-	open $^ -a Negative
+	open $? -a Negative
 
-show-resume: mpiper-resume.pdf
-	open $^ -a Negative
+show-resume: ${resume:.md=.pdf}
+	open $< -a Negative
 
-show-cover-letter: mpiper-cover-letter.pdf
-	open $^ -a Negative
+show-cover-letter: ${cover_letter:.md=.pdf}
+	open $< -a Negative
 
-show-dei-statement: mpiper-dei-statement.pdf
-	open $^ -a Negative
+show-dei-statement: ${dei_statement:.md=.pdf}
+	open $< -a Negative
 
 clean:
 	rm -f ${DOCS}
