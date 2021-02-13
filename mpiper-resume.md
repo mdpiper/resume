@@ -42,9 +42,9 @@ product management, technical marketing
   * GNU toolchain (mostly `make`, some `configure`) and GNU Compiler Collection (`gcc` and `gfortran`)
   * Shell tools (e.g., `grep`, `find`, and `sed`)
   * Continuous integration with Travis CI and GitHub Actions
+  * Documentation with Sphinx, with hosting on Read the Docs
   * Python packaging with `pip` and `conda` (including several conda-forge recipes)
   * Python unit testing with pytest and nose; coverage with Coveralls 
-  * Python documentation with Sphinx, with hosting on Read the Docs
   * Pangeo geoscientific Python environment (e.g., xarray, Jupyter; also numpy, pandas)
   * Containerization with Docker
   * HPC job management with Slurm, Torque, Portable Batch System commands
