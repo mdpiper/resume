@@ -1,5 +1,5 @@
 MD_SOURCES= \
-  mpiper-resume.md
+  mpiper-bio.md
 DOCS= \
   ${MD_SOURCES:.md=.docx} \
   ${MD_SOURCES:.md=.pdf}
