@@ -31,5 +31,6 @@ Clean:
 
     make clean
 
-Note that there are different versions (one page, two page, LaTeX) of the resume
-in separate branches in this repository.
+Note that there are different versions
+(one page, two page, LaTeX, NASA bio sketch)
+of the resume in separate branches in this repository.
