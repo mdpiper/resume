@@ -92,3 +92,9 @@ IDL, ENVI, Fortran, C, and Java.
   University of Colorado, Boulder, CO, 2001
 * M.S., Meteorology, Penn State, University Park, PA, 1994
 * B.S., Mathematics, University of Wisconsin, Madison, WI, 1992
+
+
+## Extracurricular
+
+* Captain of club Ultimate team that competes in the USA Ultimate Great Grandmasters (50+) division
+* Avid reader and bike commuter
