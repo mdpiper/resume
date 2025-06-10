@@ -4,18 +4,17 @@
 
 # Mark Piper
 
-@mdpiper &bull;
 https://mdpiper.github.io &bull;
 mdpiper@gmail.com &bull;
-303-725-1306  
-3507 Smuggler Way Boulder, CO 80305
+303-725-1306 &bull;
+Boulder, CO 80305
 
 
 ## Summary
 
 Research software engineer
-with over 20 years of geoscientific software development experience
-in multiple languages on desktop and HPC systems.
+with 25 years of experience developing geoscientific software
+in multiple languages on desktop, cloud, and HPC systems.
 I help people solve
 scientific programming, data analysis, and data visualization problems.
 
@@ -26,17 +25,18 @@ my work is unimpeded. -->
 
 ## Skills
 
-Software development, training, consulting, technical writing,
+Software development, geospatial data analysis,
+consulting, training, technical writing,
 product management, technical marketing
 
 >
 _Programming languages:_ Python, Fortran (object-oriented), Java, IDL, C++, C, MATLAB  
-_Primary development tools:_ GNU compilers and toolchain, CMake, git, bash, conda
+_Primary development tools:_ GNU toolchain, CMake, Git, Bash, conda, nox
 
 
 ## Work Experience
 
-*Research Associate*  
+*Research Associate / Research Scientist II*  
 INSTAAR, University of Colorado, Boulder, CO (2013-present)
 
 >
