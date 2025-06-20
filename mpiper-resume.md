@@ -31,7 +31,7 @@ product management, technical marketing
 
 >
 _Programming languages:_ Python, Fortran (object-oriented), Java, IDL, C++, C, MATLAB  
-_Primary development tools:_ GNU toolchain, CMake, Git, Bash, conda, nox
+_Primary development tools:_ terminal/shell, VS Code, GNU toolchain, CMake, Git, conda, Docker
 
 
 ## Work Experience
