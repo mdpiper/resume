@@ -165,15 +165,12 @@ product management, technical marketing
 
 ## Education
 
-Ph.D., Astrophysical, Planetary, and Atmospheric Sciences, University of Colorado, Boulder, CO, 2001
+* Ph.D., Astrophysical, Planetary, and Atmospheric Sciences, University of Colorado, Boulder, CO, 2001
+* M.S., Meteorology, Penn State, University Park, PA, 1994
+* B.S., Mathematics, University of Wisconsin, Madison, WI, 1992
 
-* Thesis: _The effects of a frontal passage on fine-scale nocturnal boundary
-  layer turbulence_ (William Blumen)
 
-M.S., Meteorology, Penn State, University Park, PA, 1994
+## Extracurricular
 
-* Thesis: _Top-down, bottom-up diffusion experiments in a water convection tank_ (John Wyngaard)
-
-B.S., Mathematics, University of Wisconsin, Madison, WI, 1992
-
-* REU: Fieldwork in Greenland repairing automatic weather stations, 1992 (Chuck Stearns)
+* Captain of club Ultimate team competing in the USA Ultimate Great Grandmasters (50+) division
+* Avid reader and bike commuter
