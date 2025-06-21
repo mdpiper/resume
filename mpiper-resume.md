@@ -4,21 +4,22 @@
 
 # Mark Piper
 
-@[mdpiper](https://github.com/mdpiper) &bull;
-https://mdpiper.github.io &bull;
+<!-- @[mdpiper](https://github.com/mdpiper) &bull; -->
+[mdpiper.github.io](https://mdpiper.github.io) &bull;
 mdpiper@gmail.com &bull;
-303-725-1306  
-3507 Smuggler Way Boulder, CO 80305
+303-725-1306 &bull;
+Boulder, CO
 
 
 ## Summary
 
 Research software engineer
 with over 20 years of geoscientific software development experience
-in multiple languages on desktop and HPC systems.
+in multiple languages on desktop, cloud, and HPC systems.
 
 Expertise in Python.
 Advanced skills in modern, modular, object-oriented Fortran.
+Proven experience in Java, C, and C++.
 Breadth of experience across all aspects of the software development lifecycle:
 requirements analysis, estimation, design, development, build system, test system,
 documentation, training, user support, and evaluation.
@@ -39,14 +40,14 @@ product management, technical marketing
   * Version control with `git` (primarily through GitHub, but also GitLab and
     Bitbucket) and Subversion
   * Build with CMake and CTest (for C, C++, and Fortran projects on Linux, macOS, and Windows)
-  * GNU toolchain (mostly `make`, some `configure`) and GNU Compiler Collection (`gcc` and `gfortran`)
+  * GNU toolchain (`make` and `configure`) and GNU Compiler Collection (`gcc` and `gfortran`)
   * Shell tools (e.g., `grep`, `find`, and `sed`)
   * Continuous integration with Travis CI and GitHub Actions
   * Documentation with Sphinx, with hosting on Read the Docs
-  * Python packaging with `pip` and `conda` (including several conda-forge recipes)
-  * Python unit testing with pytest and nose; coverage with Coveralls 
-  * Pangeo geoscientific Python environment (e.g., xarray, Jupyter; also numpy, pandas)
-  * Containerization with Docker
+  * Python packaging with `pip` and `conda` (including distribution on PyPI and conda-forge)
+  * Python unit testing with pytest; coverage with coverage and Coveralls 
+  * Pangeo geoscientific Python environment (e.g., xarray, Jupyter, numpy, pandas)
+  * Containerization with Docker, Apptainer, and Kubernetes
   * HPC job management with Slurm, Torque, Portable Batch System commands
   * Team communication and issue tracking with Slack, Confluence, JIRA
   * Development environments: Emacs, Vi/m, VS Code, Eclipse
