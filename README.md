@@ -4,18 +4,17 @@ My resume.
 It's written in Markdown,
 and rendered to Word and PDF with pandoc.
 
+This version is a one-pager tuned for a job at NOAA.
+
 Build:
 
     make
 
 
-Display (macOS):
+Display (Linux and macOS):
 
     make show
 
 Clean:
 
     make clean
-
-Note that there are different versions (one page, multipage, LaTeX) of the resume
-in separate branches in this repository.
