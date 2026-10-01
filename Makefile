@@ -15,6 +15,9 @@ DOCS= \
 .md.pdf:
 	pandoc -V geometry:margin=0.8in --to=latex $< -o $@
 
+resume:
+	pandoc -V geometry:margin=0.8in --to=latex ${resume} -o ${resume:.md=.pdf}
+
 all: decrypt ${DOCS}
 
 decrypt: ${cover_letter}.gpg
