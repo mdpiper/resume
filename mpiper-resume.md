@@ -2,24 +2,24 @@
 
 \pagenumbering{gobble}
 
-# Mark Piper
+# Mark Daniel Piper
 
 <!-- @[mdpiper](https://github.com/mdpiper) &bull; -->
 [mdpiper.github.io](https://mdpiper.github.io) &bull;
-mdpiper@gmail.com &bull;
+[mdpiper@gmail.com](mailto:mdpiper@gmail.com) &bull;
 303-725-1306 &bull;
 Boulder, CO
 
 
 ## Summary
 
-Research software engineer
-with over 20 years of geoscientific software development experience
+Generalist research software engineer
+with over 25 years of experience in geoscientific software development
 in multiple languages on desktop, cloud, and HPC systems.
 
 Expertise in Python.
 Advanced skills in modern, modular, object-oriented Fortran.
-Proven experience in Java, C, and C++.
+Proven experience in Java, C, C++, and R.
 Breadth of experience across all aspects of the software development lifecycle:
 requirements analysis, estimation, design, development, build system, test system,
 documentation, training, user support, and evaluation.
@@ -33,32 +33,33 @@ Skilled at problem solving, troubleshooting, communication, and collaboration.
 Full cycle software development, training, consulting, technical writing,
 product management, technical marketing
 
-* Software development in Python, Fortran (modern), bash, Java, IDL,
-  C++, C, MATLAB, NCL
-* Experience with a wide variety of software development tools, services, and
-  build systems, including:
-  * Version control with `git` (primarily through GitHub, but also GitLab and
+* Software development in Python, Fortran (modern), shell, Java, IDL,
+  C++, C, MATLAB, R, NCL
+* Experience with a wide variety of software development tools and services, including:
+  * Version control with Git (primarily through GitHub, but also GitLab and
     Bitbucket) and Subversion
-  * Build with CMake and CTest (for C, C++, and Fortran projects on Linux, macOS, and Windows)
-  * GNU toolchain (`make` and `configure`) and GNU Compiler Collection (`gcc` and `gfortran`)
-  * Shell tools (e.g., `grep`, `find`, and `sed`)
-  * Continuous integration with Travis CI and GitHub Actions
-  * Documentation with Sphinx, with hosting on Read the Docs
-  * Python packaging with `pip` and `conda` (including distribution on PyPI and conda-forge)
-  * Python unit testing with pytest; coverage with coverage and Coveralls 
-  * Pangeo geoscientific Python environment (e.g., xarray, Jupyter, numpy, pandas)
+  * Build with CMake (for C, C++, and Fortran projects on Linux, macOS, and Windows)
+  * GNU toolchain and GNU Compiler Collection
+  * Shell tools
+  * Continuous integration with GitHub Actions
+  * Documentation with Sphinx and MyST Markdown, with hosting on Read the Docs
+  * Python packaging, including distribution on PyPI and conda-forge
+  * Python unit testing with pytest and coverage
+  * Project Jupyter tools
+  * Geoscientific Python tools, including Xarray, NumPy, GeoPandas
   * Containerization with Docker, Apptainer, and Kubernetes
   * HPC job management with Slurm, Torque, Portable Batch System commands
   * Team communication and issue tracking with Slack, Confluence, JIRA
   * Development environments: Emacs, Vi/m, VS Code, Eclipse
-  * Document generation with \LaTeX, pandoc, Markdown
-  * Cloud services: Amazon Web Services, XSEDE Jetstream
+  * Document generation with \LaTeX, Pandoc, Markdown
+  * Cloud services: Amazon Web Services, ACCESS-CI Jetstream2
+* Operating systems: Linux and macOS (skilled), Windows (familiar)
 
 
 ## Work Experience
 
 [INSTAAR](https://instaar.colorado.edu/), University of Colorado, Boulder, CO  
-*Research Associate* (2013-present)
+*Research Associate / Research Scientist II* (2013-present)
 
 * Research software engineer in the NSF-funded [Community Surface Dynamics
   Modeling System](https://csdms.colorado.edu) (CSDMS). Core developer of the
@@ -126,7 +127,7 @@ product management, technical marketing
   Maintainer of the [CSDMS Help Desk](https://github.com/csdms/help-desk/),
   troubleshooting questions from community members.
 
-[L3Harris Geospatial](https://www.l3harrisgeospatial.com/) (formerly Research Systems, Inc.), Boulder, CO  
+[NV5 Geospatial Software](https://www.nv5.com/geospatial/) (formerly Research Systems, Inc.), Boulder, CO  
 *Product Manager* (2012-2013)
 
 * Technical product manager for the
@@ -167,10 +168,10 @@ product management, technical marketing
 
 * Ph.D., Astrophysical, Planetary, and Atmospheric Sciences, University of Colorado, Boulder, CO, 2001
 * M.S., Meteorology, Penn State, University Park, PA, 1994
-* B.S., Mathematics, University of Wisconsin, Madison, WI, 1992
+* B.S., Mathematics and Atmospheric Sciences, University of Wisconsin, Madison, WI, 1992
 
 
 ## Extracurricular
 
-* Captain of club Ultimate team competing in the USA Ultimate Great Grandmasters (50+) division
+* Captain of a club Ultimate team competing in the USA Ultimate Great Grandmasters (50+) division
 * Avid reader and bike commuter
