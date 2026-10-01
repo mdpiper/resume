@@ -2,21 +2,21 @@
 
 \pagenumbering{gobble}
 
-# Mark Piper
+# Mark Daniel Piper
 
-https://mdpiper.github.io &bull;
-mdpiper@gmail.com &bull;
+[mdpiper.github.io](https://mdpiper.github.io) &bull;
+[mdpiper@gmail.com](mailto:mdpiper@gmail.com) &bull;
 303-725-1306 &bull;
 Boulder, CO 80305
 
 
 ## Summary
 
-Research software engineer
-with 25 years of experience developing geoscientific software
+Generalist research software engineer
+with over 25 years of geoscientific software development experience
 in multiple languages on desktop, cloud, and HPC systems.
 I help people solve
-scientific programming, data analysis, and data visualization problems.
+scientific programming, data access, data analysis, and data visualization problems.
 
 <!-- I am visually impaired;
 however, with minor accommodations (e.g., reversing screen colors),
@@ -25,12 +25,17 @@ my work is unimpeded. -->
 
 ## Skills
 
-Software development, geospatial data analysis,
-consulting, training, technical writing,
-product management, technical marketing
+Software development,
+numerical modeling,
+geospatial data analysis,
+consulting,
+training,
+technical writing,
+product management,
+technical marketing
 
 >
-_Programming languages:_ Python, Fortran (object-oriented), Java, IDL, C++, C, MATLAB  
+_Programming languages:_ Python, Fortran (2003, 2008), IDL, Java, C++, C, R, MATLAB  
 _Primary development tools:_ terminal/shell, VS Code, GNU toolchain, CMake, Git, conda, Docker
 
 
@@ -51,7 +56,7 @@ Lead instructor of the Earth Surface Processes Institute (ESPIn) summer school.
 Co-author of 10 journal articles and 18 software products.
 
 *Product Manager*  
-L3Harris Geospatial (formerly Research Systems, Inc.),
+NV5 Geospatial Software (formerly Research Systems, Inc.),
 Boulder, CO (2012-2013)
 
 >
@@ -63,7 +68,7 @@ wrote user stories,
 then distilled and communicated information through requirements to Engineering.
 
 *Solutions Engineer*  
-L3Harris Geospatial, Boulder, CO (2010-2012)
+NV5 Geospatial Software, Boulder, CO (2010-2012)
 
 >
 Acted as technology evangelist.
@@ -75,7 +80,7 @@ Provided internal technical product assistance
 for Sales, Marketing, Tech Support, Services, and Product Management.
 
 *Professional Services Engineer*  
-L3Harris Geospatial, Boulder, CO (1999-2010)
+NV5 Geospatial Software, Boulder, CO (1999-2010)
 
 >
 Designed, developed and taught over 180
@@ -91,10 +96,10 @@ IDL, ENVI, Fortran, C, and Java.
 * Ph.D., Astrophysical, Planetary, and Atmospheric Sciences,
   University of Colorado, Boulder, CO, 2001
 * M.S., Meteorology, Penn State, University Park, PA, 1994
-* B.S., Mathematics, University of Wisconsin, Madison, WI, 1992
+* B.S., Mathematics and Atmospheric Sciences, University of Wisconsin, Madison, WI, 1992
 
 
 ## Extracurricular
 
-* Captain of club Ultimate team that competes in the USA Ultimate Great Grandmasters (50+) division
+* Captain of a club Ultimate team that competes in the USA Ultimate Great Grandmasters (50+) division
 * Avid reader and bike commuter
