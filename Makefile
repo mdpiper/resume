@@ -26,16 +26,16 @@ encrypt: ${cover_letter}
 	gpg --encrypt $< && rm $^
 
 show: ${MD_SOURCES:.md=.pdf}
-	open $? -a Negative
+	open $?
 
 show-resume: ${resume:.md=.pdf}
-	open $< -a Negative
+	open $<
 
 show-cover-letter: ${cover_letter:.md=.pdf}
-	open $< -a Negative
+	open $<
 
 show-dei-statement: ${dei_statement:.md=.pdf}
-	open $< -a Negative
+	open $<
 
 clean:
 	rm -f ${DOCS}
