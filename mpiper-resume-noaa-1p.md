@@ -35,8 +35,10 @@ product management,
 technical marketing
 
 >
-_Programming languages:_ Python, Fortran (2003, 2008), IDL, Java, C++, C, R, MATLAB  
-_Primary development tools:_ terminal/shell, VS Code, GNU toolchain, CMake, Git, conda, Docker
+_Programming languages:_ Python, Fortran (2003, 2008), shell, IDL, Java, C++, C, R, MATLAB  
+_Primary development tools:_ terminal/shell, VS Code, GNU toolchain, CMake, Git, conda, Docker  
+_File formats:_ NetCDF (3 and 4), HDF5, HDF4, HDF-EOS, GeoTIFF, Shapefile, GRIB  
+_Operating systems:_ Linux (sysadmin skills), macOS, Windows
 
 
 ## Work Experience
@@ -102,4 +104,4 @@ IDL, ENVI, Fortran, C, and Java.
 ## Extracurricular
 
 * Captain of a club Ultimate team that competes in the USA Ultimate Great Grandmasters (50+) division
-* Avid reader and bike commuter
+* Avid reader and bicycle commuter
